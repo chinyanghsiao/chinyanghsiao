@@ -2,7 +2,7 @@
 
 Solutions Engineer @ SOLVERIGHT
 
-Building Data & AI solutions with Databricks, Microsoft Fabric, and Power BI.
+Helping organizations build modern ETL pipelines and reporting automation.
 
 ## Tech
 Databricks • Microsoft Fabric • Power BI
