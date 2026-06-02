@@ -1,6 +1,8 @@
 # Hi, I'm Chin Yang Hsiao (Seth) 👋
 
-Solutions Engineer focused on Data & AI.
+Solutions Engineer @ SOLVEIRHT
+
+Building Data & AI solutions with Databricks, Microsoft Fabric, and Power BI.
 
 ## Tech
 Databricks • Microsoft Fabric • Power BI
