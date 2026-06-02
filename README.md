@@ -9,10 +9,10 @@ Databricks • Microsoft Fabric • Power BI
 
 ## Projects
 
-- 🚀 [Church Analytics Platform]
+- 🚀 [Databricks Projects]
   
-- 📊 [Fabric Data Platform]
+- 📊 [Microsoft Fabric Projects]
   
-- 🌐 [NGO HTML Projects]
+- 🌐 [NGO Web Projects]
  
   1. [The North Faith](https://github.com/Thenorthfaith/tw)
