@@ -1,6 +1,6 @@
 # Hi, I'm Chin Yang Hsiao (Seth) 👋
 
-Solutions Engineer @ SOLVEIRHT
+Solutions Engineer @SOLVEIRHT
 
 Building Data & AI solutions with Databricks, Microsoft Fabric, and Power BI.
 
