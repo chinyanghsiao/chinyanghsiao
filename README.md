@@ -9,10 +9,10 @@ Databricks • Microsoft Fabric • Power BI
 
 ## Projects
 
-- 🚀 [Databricks Projects]
+- 🚀 [Smart Manufacturing]
   
-- 📊 [Microsoft Fabric Projects]
+- 📊 [Business Operations & Analytics]
   
-- 🌐 [NGO Web Projects]
+- 🌐 [NGO Web Solutions]
  
   1. [The North Faith](https://github.com/Thenorthfaith/tw)
