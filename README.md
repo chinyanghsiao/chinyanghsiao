@@ -2,7 +2,8 @@
 
 Solutions Engineer focused on Data & AI.
 
-**Tech:** Databricks • Microsoft Fabric • Power BI
+## Tech
+Databricks • Microsoft Fabric • Power BI
 
 ## Projects
 
@@ -10,4 +11,5 @@ Solutions Engineer focused on Data & AI.
   
 - 📊 [Fabric Data Platform]
   
-- 🌐 [NGO HTML Projects](https://github.com/Thenorthfaith/tw)
+- 🌐 [NGO HTML Projects]
+  1. [The North Faith](https://github.com/Thenorthfaith/tw)
