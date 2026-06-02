@@ -1,6 +1,6 @@
 # Hi, I'm Chin Yang Hsiao (Seth) 👋
 
-Solutions Engineer @SOLVEIRHT
+Solutions Engineer @ SOLVERIGHT
 
 Building Data & AI solutions with Databricks, Microsoft Fabric, and Power BI.
 
@@ -14,4 +14,4 @@ Databricks • Microsoft Fabric • Power BI
 - 📊 [Fabric Data Platform]
   
 - 🌐 [NGO HTML Projects]
-  1. [The North Faith](https://github.com/Thenorthfaith/tw)
+  [The North Faith](https://github.com/Thenorthfaith/tw)
