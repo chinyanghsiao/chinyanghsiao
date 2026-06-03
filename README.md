@@ -10,10 +10,10 @@ Databricks • Microsoft Fabric • Power BI
 ## Projects
 
 - 🚀 [Smart Factory]
-  1. [OEE-Analytics-Databricks](https://github.com/Solveright/OEE-Analytics)
+  1. [OEE Analytics (Databricks)](https://github.com/Solveright/OEE-Analytics-databricks)
        
 - 📊 [Business Operations & Analytics]
-  1. [Revenue-Visibility-Fabric](https://github.com/Solveright/revenue-visibility)
+  1. [Revenue Visibility (Fabric)](https://github.com/Solveright/revenue-visibility-fabric)
 
 - 🌐 [NGO Web Solutions]
-  1. [The North Faith Taiwan](https://github.com/Thenorthfaith/tw)
+  1. [The North Faith Taiwan (HTML + Power BI)](https://github.com/Thenorthfaith/tw)
