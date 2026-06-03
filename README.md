@@ -2,7 +2,7 @@
 
 Solutions Engineer @ Solveright
 
-Helping organizations build modern ETL pipelines and reporting automation.
+Driving data modernization through scalable pipelines, analytics, and automation.
 
 ## Tech
 Databricks • Microsoft Fabric • Power BI
