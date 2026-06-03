@@ -15,4 +15,4 @@ Databricks • Microsoft Fabric • Power BI
   
 - 🌐 [NGO Web Solutions]
  
-  1. [The North Faith](https://github.com/Thenorthfaith/tw)
+  1. [THE NORTH FAITH TAIWAN](https://github.com/Thenorthfaith/tw)
