@@ -10,7 +10,7 @@ Databricks • Microsoft Fabric • Power BI
 ## Projects
 
 - 🚀 [Smart Manufacturing]
-  1. [Automation Reporting](https://github.com/Solveright/project01)
+  1. [Automation Reporting](https://github.com/Solveright/automation-reporting)
        
 - 📊 [Business Operations & Analytics]
   
