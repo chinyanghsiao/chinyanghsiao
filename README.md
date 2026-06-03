@@ -1,6 +1,6 @@
 # Hi, I'm Chin Yang Hsiao (Seth) 👋
 
-Solutions Engineer @ SOLVERIGHT
+Solutions Engineer @ Solveright
 
 Helping organizations build modern ETL pipelines and reporting automation.
 
@@ -15,4 +15,4 @@ Databricks • Microsoft Fabric • Power BI
   
 - 🌐 [NGO Web Solutions]
  
-  1. [The North Faith](https://github.com/Thenorthfaith/tw)
+  1. [The North Faith Taiwan](https://github.com/Thenorthfaith/tw)
