@@ -2,10 +2,10 @@
 
 Solutions Engineer @ Solveright
 
-Driving data modernization through scalable pipelines, analytics, and automation.
+Designing data and AI solutions for modern enterprises.
 
 ## Tech
-Databricks • Microsoft Fabric • Power BI
+Databricks • GCP • Power BI
 
 ## Projects
 
