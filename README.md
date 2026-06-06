@@ -5,7 +5,7 @@ Solutions Engineer @ Solveright
 Designing data and AI solutions for modern enterprises.
 
 ## Tech
-Databricks • GCP • Power BI
+Databricks • AWS • Power BI
 
 ## Projects
 
