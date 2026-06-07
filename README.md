@@ -2,7 +2,7 @@
 
 Solutions Engineer @ Solveright
 
-Designing data and AI solutions for modern enterprises.
+Designing AI, cloud, and analytics solutions for smart manufacturing and industrial operations.
 
 ## Tech
 Databricks • AWS • Power BI
