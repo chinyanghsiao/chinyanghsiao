@@ -11,6 +11,7 @@ Databricks • AWS • Power BI
 
 - 🚀 [Smart Factory]
   1. [OEE Analytics](https://github.com/Solveright/OEE-Analytics)
+  2. [Manufacturing Lakehouse Migration](https://github.com/Solveright/Manufacturing-Lakehouse-Migration)
        
 - 📊 [Business Operations & Analytics]
   1. [Revenue Visibility](https://github.com/Solveright/revenue-visibility)
