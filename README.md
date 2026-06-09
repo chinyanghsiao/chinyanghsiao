@@ -1,4 +1,4 @@
-# Hi, I'm Chin Yang Hsiao (Seth) 👋
+# Hi, I'm Chin-Yang Hsiao (Seth) 👋
 
 Solutions Engineer @ Solveright
 
