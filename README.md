@@ -17,6 +17,7 @@ Databricks • AWS • Power BI
     
 - 📊 [Business Operations & Analytics]
   1. [Revenue Visibility](https://github.com/Solveright/revenue-visibility)
-
+  2. [Document Invoice Platform](https://github.com/Solveright/document-invoice-platform)
+  
 - 🌐 [NGO Web Solutions]
   1. [The North Faith Taiwan](https://github.com/Thenorthfaith/tw)
