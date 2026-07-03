@@ -8,7 +8,9 @@ Designing AI, cloud, and analytics solutions for smart manufacturing and industr
 Databricks • AWS • Power BI
 
 ## Projects
-
+- 🤖 [AI Agents]
+  1. [Enterprise Solutions Architect Agent](https://github.com/Solveright/Enterprise-Solutions-Architect-Agent)
+     
 - 🚀 [Smart Factory]
   1. [OEE Analytics](https://github.com/Solveright/OEE-Analytics)
 
